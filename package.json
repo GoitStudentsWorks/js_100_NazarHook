@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/full-stack-force/",
+    "build": "vite build --base=/js_100_NazarHook/",
     "preview": "vite preview"
   },
   "devDependencies": {
